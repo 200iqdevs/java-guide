@@ -80,6 +80,14 @@ code {
     font-family: 'Cantarell', menlo, monospace;
 }
 
+footer {
+    color: #808080;
+    background-color: #2c3eff;
+    font-size: 25px;
+    width: auto;
+    height: auto;
+}
+
 
 .block-header { background-color: #fff; padding-bottom: 50px; }
 .block-header h2 { color: #000; }
