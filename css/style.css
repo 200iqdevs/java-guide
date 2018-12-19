@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    font-size: 150%;
+    font-size: 80px;
     font-weight: normal;
     margin: 0;
     font-family: 'Chelsea Market', Georgia, serif;
@@ -19,7 +19,7 @@ h1 {
 }
 
 h2 {
-    font-size: 120%;
+    font-size: 60px;
     font-weight: normal;
     margin: 0;
     color: #ffb000;
@@ -28,7 +28,7 @@ h2 {
 }
 
 h3 {
-    font-size: 100%;
+    font-size: 40px;
     font-weight: normal;
     margin: 40px 0 0;
     text-transform: lowercase;
@@ -45,11 +45,6 @@ i {
     color: #000;
 }
 
-ul {
-    max-width: 100%;
-    margin-right: 25%;
-}
-
 .scrollblock {
     position: relative;
     margin: 0;
@@ -60,7 +55,7 @@ ul {
 }
 
 .quote {
-    font-size: 15%;
+    font-size: 15px;
     font-weight: normal;
     font-family: 'Chelsea Market', Georgia, serif;
     color: #000;
